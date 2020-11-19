@@ -1,0 +1,97 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sens-serif; 
+	line-height: 1.5;
+	color: #333333;
+}
+.section {
+	padding: 30px 10%;
+
+}
+.header {
+	margin-top: 80px;
+	font-size: 24px;
+	text-align: center;
+}
+.header span {
+	font-weight: 300;
+	display: block;
+}
+.header strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.main {
+	text-align: center;
+	margin-top: 80px;
+
+} 
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	margin-left: 30px;
+	text-align: center;
+	padding: 20px;
+	border: none;
+}
+.form-header {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+.form input {
+	display: block;
+	margin-top: 10px;
+	width: 300px;
+	padding: 17px;
+	font-size: 18px;
+	border: 1px solid #333333;
+}
+.btn {
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	background-color: #2727d9;
+	border: none;
+	width: 300px;
+	height: 60px;
+	display: block;
+	margin: 11px auto;
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 10px 50px;
+}
+.feature-header {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 24px;
+}
+.feature {
+	text-align: center;
+	margin: 60px auto;
+}
+.people {
+	text-align: center;
+	margin: 0px 15%;
+}
+.our-clients {
+	margin-top: 100px;
+	margin-bottom: 70px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 24px;
+}
+.photo {
+	display: inline-block;
+	width: 230px;
+	height: 230px;
+}
