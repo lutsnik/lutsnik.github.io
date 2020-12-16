@@ -8,4 +8,8 @@
 [задание 17 ](https://lutsnik.github.io/lesson-17/src/ "моя готовая домашка")
 [задание 18 ](https://lutsnik.github.io/lesson-18/src/ "моя готовая домашка")
 [задание 19 ](https://lutsnik.github.io/lesson-19/src/ "Моя готовая домашка")
+[задание 20/1 ](lutsnik.github.io/lesson-20/src-Magnific-Popup/ "Моя готовая домашка")
+[задание 20/2 ]( "Моя готовая домашка")
+[задание 20/3 ]( "Моя готовая домашка")
+
 
