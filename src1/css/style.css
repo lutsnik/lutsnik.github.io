@@ -1,0 +1,30 @@
+body {
+	background: url(../Слой.png) center repeat;
+    background-size: 100%; /* Современные браузеры */
+}
+
+.header {
+	margin-top: 75px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+.panel-group{
+	text-align: center;
+	display: block;
+	width: 860px;
+	margin-left: 12%;
+}
+.container {
+		text-align: center;
+}
+.button {
+background-color: #fff;
+}
+/*.main {
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: url(../Слой.png) center repeat;
+   background-size: cover;
+ }
+*/
